@@ -857,7 +857,7 @@ Version 2.28.0
 
 ### Synapse
 
-* [BREAKING CHANGE] Rename `az synapse workspace key update` to `az synapse workspace key activate` and remove `--is-active`
+* [BREAKING CHANGE] Rename `az synapse workspace key update` to `az synapse workspace activate` and remove `--is-active`
 * Optimize submit spark job arguments
 * `az synapse`: Add managed private endpoints feature.
 * Spark pool remove library requirement
